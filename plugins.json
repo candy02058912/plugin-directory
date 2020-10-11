@@ -1700,7 +1700,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-09-24 14:25:33 UTC"
+    "lastUpdated": "2020-10-10 14:35:02 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3202,7 +3202,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-08-27 11:34:23 UTC"
+    "lastUpdated": "2020-10-10 05:20:08 UTC"
   },
   {
     "title": "Blender",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-09-30 19:33:56 UTC"
+    "lastUpdated": "2020-10-08 07:01:22 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4223,7 +4223,7 @@
     "name": "puzzle-tokens",
     "homepage": "https://github.com/ingrammicro/puzzle-tokens",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-tokens/master/appcast.xml",
-    "lastUpdated": "2020-09-23 09:18:49 UTC"
+    "lastUpdated": "2020-10-10 17:50:41 UTC"
   },
   {
     "title": "Cracker9 Sketch Plugin",
@@ -4233,7 +4233,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-29 03:11:28 UTC"
+    "lastUpdated": "2020-10-08 08:32:19 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4290,7 +4290,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-09-06 14:25:46 UTC"
+    "lastUpdated": "2020-10-05 07:28:59 UTC"
   },
   {
     "title": "Better Shadow",
