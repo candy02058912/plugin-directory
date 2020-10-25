@@ -635,7 +635,7 @@
     "title": "Artboard presets for social media images",
     "author": "herrhelms",
     "owner": "herrhelms",
-    "lastUpdated": "2019-07-24 21:12:21 UTC"
+    "lastUpdated": "2020-10-23 00:12:18 UTC"
   },
   {
     "description": "Use Google Sheets to sync typography across your team.",
@@ -1700,7 +1700,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-10-10 14:35:02 UTC"
+    "lastUpdated": "2020-10-24 11:41:28 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3202,7 +3202,7 @@
     "author": "oodesign",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-10-17 14:42:15 UTC"
+    "lastUpdated": "2020-10-24 15:49:35 UTC"
   },
   {
     "title": "Blender",
@@ -3415,7 +3415,7 @@
     "author": "Jacopo Colò",
     "owner": "jacopocolo",
     "name": "p5-sketchplugin",
-    "lastUpdated": "2018-10-03 07:16:43 UTC"
+    "lastUpdated": "2020-10-20 12:16:17 UTC"
   },
   {
     "title": "Units",
@@ -3743,7 +3743,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-29 23:26:16 UTC"
+    "lastUpdated": "2020-10-22 15:00:33 UTC"
   },
   {
     "title": "Plot",
@@ -4213,7 +4213,7 @@
     "name": "puzzle-publisher",
     "homepage": "https://github.com/ingrammicro/puzzle-publisher",
     "appcast": "https://raw.githubusercontent.com/ingrammicro/puzzle-publisher/master/appcast.xml",
-    "lastUpdated": "2020-10-16 20:20:07 UTC"
+    "lastUpdated": "2020-10-21 08:19:17 UTC"
   },
   {
     "title": "Puzzle Tokens",
@@ -4233,7 +4233,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-10-15 09:00:57 UTC"
+    "lastUpdated": "2020-10-19 04:32:25 UTC"
   },
   {
     "title": "Convert To Grayscale",
